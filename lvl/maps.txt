@@ -1,0 +1,7 @@
+# alias   imagefile             flags
+# ------------------------------------------------
+    s       img/bg.png
+    b       img/box.png         scrollable friction
+    f       img/finish.png      scrollable friction
+    g       img/grass.png       scrollable friction
+    p       img/man.png         scrollable friction player

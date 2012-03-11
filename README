@@ -1,0 +1,7 @@
+The code is horrible, due to my not knowing any python. I did originally have much grander game ideas but thought I'd do something simple to learn some basic python.
+
+Usually game things I do have different sprite classes which draw and update themselves but it was pointed out that leads to mega classes, so I'm trying to seperate out responsibilities by having a pretty generic Sprite class that is updated by one or more "Managers" to handle scrolling, movement etc. I'm still not 100% sure that I'm not doing it wrong, but never mind.
+
+Problems I haven't worked out yet include how to add sprites to the world and allocate them to managers dynamically. That is a bridge I'm going to cross later.
+
+No collision or such yet, I'm putting this here more as an online backup than anything.
